@@ -1,0 +1,23 @@
+.img{
+    width: 100%;
+    border: 5px solid white;
+}
+h1{
+    text-transform: capitalize;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    background-color: black;
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+p{
+    color: white;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+}
